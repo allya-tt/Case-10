@@ -1,5 +1,5 @@
 #Case 10
-#Adristi Fauzi 47%
+#Adristi Fauzi 50%
 #Alexandra Raspopova 55%
 #Belozertseva Maria 30%
 import random
